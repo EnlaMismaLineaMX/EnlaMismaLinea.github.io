@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "ichi"
+    "name": "saga"
   },
   "urls": {
     "site": "https://EnlaMismaLineaMX.github.io",
     "hubpress": "https://enlamismalineamx.github.io",
-    "theme": "//EnlaMismaLineaMX.github.io/themes/casper",
+    "theme": "//EnlaMismaLineaMX.github.io/themes/ichi",
     "images": "https://EnlaMismaLineaMX.github.io/images"
   },
   "initialisationConfigComponent": {
