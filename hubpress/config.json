@@ -5,6 +5,22 @@
     "branch": "master"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://EnlaMismaLineaMX.github.io",
+    "hubpress": "https://enlamismalineamx.github.io",
+    "theme": "//EnlaMismaLineaMX.github.io/themes/casper",
+    "images": "https://EnlaMismaLineaMX.github.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }
