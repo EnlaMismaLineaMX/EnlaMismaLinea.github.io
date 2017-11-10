@@ -1,0 +1,6 @@
+
+= Code snippets
+:hp-image: /covers/cover.png
+:published_at: 2019-08-24
+:hp-tags: Blog, Open_Source,
+:hp-alt-title: Code snips
